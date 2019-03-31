@@ -15,7 +15,7 @@ Well, the problem is that in order to find out these users, we have to deal with
 * pyspark_dist_explore
 
 ## Files
-* mini_sparkify_event_data.json: a small subset of a 12GB dataset containing users' events on Sparkify.
+* mini_sparkify_event_data.json: a small subset of a 12GB dataset containing users' events on Sparkify. This file is required to run the notebooks, but it is missing due to github's file size limit.
 * 1.Data wrangling and EDA.ipynb: a jupyter notebook containing the code of cleaning the data and EDA.
 * 2.Fitting and tuning.ipynb: a jupyter notebook containing the code of feature engineering and machine learning.
 
