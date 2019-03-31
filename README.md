@@ -29,4 +29,4 @@ Also, it is not easy to pick the features for fitting the model. Perhaps a more 
 Besides, the way we define churn could be optimized too. There are other page names related to churn.
 
 ## External link
-Please refer to my post on [Medium]().
+Please refer to [my post on Medium](https://medium.com/@xudong.travail/spark-on-sparkify-e56ce2416ce2).
