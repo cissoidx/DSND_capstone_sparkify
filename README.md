@@ -30,3 +30,6 @@ Besides, the way we define churn could be optimized too. There are other page na
 
 ## External link
 Please refer to [my post on Medium](https://medium.com/@xudong.travail/spark-on-sparkify-e56ce2416ce2).
+
+## License
+This repository is under MIT license.
